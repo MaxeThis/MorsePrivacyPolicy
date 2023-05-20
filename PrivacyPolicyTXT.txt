@@ -1,5 +1,5 @@
 Privacy Policy
-This policy applies to all information collected or submitted on the MorseVibes: Vibrate Chat app.
+This policy applies to all information collected or submitted on the Morse - Vibration Messenger (hereinafter referred to as 'MorseVibes') app.
 Information We Collect
 When creating an account, you will be asked to enter a username and a phone number. This information is used for logging in, password resets, and facilitating communication between users. We also collect device ID information to facilitate push notifications.
 Technical Basics
