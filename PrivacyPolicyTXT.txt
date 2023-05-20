@@ -1,37 +1,24 @@
 Privacy Policy
-This policy applies to all information collected or submitted on the Morse - Vibration Messenger app.
-Information we collect
-When creating an account, you will be asked to enter an email address and a password. Email addresses are only used for logging in, password resets, responding to emails that you initiate, and notifications that you request. We don’t share emails. We also collect usernames which are used so people can join your chat.
-Technical basics
-We store when you tap on our servers provided by google firebase. Taps are recorded on our server based on where you touch the screen.
-Ads and analytics
-Morse’s app collects aggregate, anonymous statistics, such as the percentage of users who use particular features, to improve the app. We use AdMob, PollFish, and MoPub to provide our ads. They do use personalized data when providing ads. PollFish can be disabled in settings. Advertisements will only show when they are set by the developer, and are not guranteed to be present or disabled in the application. Advertisement displayment in the app varies.
-Information usage
-We use the information we collect to operate and improve our website, apps, and customer support.
-We do not share personal information with outside parties except to the extent necessary to accomplish Morse’s functionality. We may share anonymous, aggregate statistics with outside parties, such as how many people listen to a particular podcast with Morse.
-We may disclose your information in response to subpoenas, court orders, or other legal requirements; to exercise our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities, suspected fraud or abuse, violations of our policies; or to protect our rights and property.
-In the future, we may sell to, buy, merge with, or partner with other businesses. In such transactions, user information may be among the transferred assets.
-Disclaimer
-The materials on Morse - Vibration Messenger's web site are provided "as is". Morse - Vibration Messenger makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Morse - Vibration Messenger does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site. Purchase of the application grants access to the application "as is" and does not gurantee adequate server-side function.
-Limitations
-In no event shall Morse - Vibration Messenger or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on Morse - Vibration Messenger's Internet site, even if Morse - Vibration Messenger or a Morse - Vibration Messenger authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+This policy applies to all information collected or submitted on the MorseVibes: Vibrate Chat app.
+Information We Collect
+When creating an account, you will be asked to enter a username and a phone number. This information is used for logging in, password resets, and facilitating communication between users. We also collect device ID information to facilitate push notifications.
+Technical Basics
+We store user interactions, including screen taps and user activities on our servers provided by Google Firebase. This data helps us improve our service and offer you a personalized experience.
+Push Notifications
+We send you push notifications if you choose to receive them for reminding you of certain activities on our app. We send push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level.
+Ads and Analytics
+Currently, MorseVibes does not display any third-party ads. However, the app may include ads in the future. MorseVibes collects aggregate, anonymous statistics, such as the percentage of users who use particular features, to improve the app.
+Information Usage
+We use the information we collect to operate and improve our apps, and provide customer support. We do not share personal information with outside parties except to the extent necessary to accomplish MorseVibes' functionality. We may share anonymous, aggregate statistics with outside parties, such as how many people use a particular feature with MorseVibes.
+Messaging
+MorseVibes utilizes Socket.io to provide real-time messaging functionality. As a part of this service, messages are temporarily stored and transmitted through our servers to facilitate conversation between users. Please note that while we make every effort to ensure the secure transmission of your data, no method of transmission over the internet is 100% secure.
+In-app Purchases
+MorseVibes offers consumable in-app purchases, specifically to change the color associated with your account. Purchases are non-refundable. If there is an issue with a purchase, users can contact support for resolution. However, please be aware that the service can be discontinued at any time, and we are not responsible for refunds if this occurs.
 Security
-We implement a variety of security measures to help keep your information secure. For instance, all communication with the app and website requires HTTPS with certificate pinning. Passwords are stored with google in their firebase system.
-Accessing, changing, or deleting information
-Email maxethis@gmail.com to delete your account.
-California Online Privacy Protection Act Compliance
-We comply with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-Site Terms of Use Modifications
-Morse - Vibration Messenger may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
-Children’s Online Privacy Protection Act Compliance
-We never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-Information for European Union Customers
-By using Morse and providing your information, you authorize us to collect, use, and store your information outside of the European Union.
-International Transfers of Information
-Information may be processed, stored, and used outside of the country in which you are located. Data privacy laws vary across jurisdictions, and different laws may be applicable to your data depending on where it is processed, stored, or used.
+We implement a variety of security measures to help keep your information secure. All communication with the app requires HTTPS with certificate pinning. Passwords are encrypted and stored securely with Google Firebase. We are not responsible for any repercussions if our data is stolen.
 Your Consent
-By using our site or apps, you consent to our privacy policy. We are not responsible for how you use our application.
+By using MorseVibes, you consent to our privacy policy.
 Contacting Us
-If you have questions regarding this privacy policy, you may email maxethis@gmail.com. Please note that account deletion should be done within the Morse app, not via email requests, for security reasons.
-Changes to this policy
-Oct 14, 2022
+If you have questions regarding this privacy policy, you may email maxethis@gmail.com.
+Changes to this Policy
+This Privacy Policy may be updated from time to time. The most recent version is effective as of May 19, 2023.
